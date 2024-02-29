@@ -1,0 +1,20 @@
+.countdown {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.time {
+  text-align: center;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #333;
+}
+
+.smalltext {
+  font-size: 0.8rem;
+  color: #666;
+}
